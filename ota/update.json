@@ -1,10 +1,10 @@
 {
   "app": "stonebill",
-  "tag": "1.49",
-  "versionCode": 49,
-  "size": 15762968,
-  "url": "https://sawan4art.github.io/ota/StoneBill-v1.49.apk",
-  "sha256": "6a92920796403ac41251ae5366d55a9eafb6df353baec2c20385eb2ba7a53482",
-  "notes": "القناة المستقلة: فاحص مزدوج + استضافة عامة للحزمة — التحديث الهوائي كامل من جديد",
-  "at": "2026-10-08T19:19:44Z"
+  "tag": "1.50",
+  "versionCode": 50,
+  "size": 15764359,
+  "url": "https://sawan4art.github.io/ota/StoneBill-v1.50.apk",
+  "sha256": "3ec05e2e79f86e8a0f6afb3988385b2ccd268aa139bced69c539243273a159e5",
+  "notes": "لا شاشة دخول ميتة ولا سيناريو بلا فايربيس: محمّل SDK محلي-أولاً + وضع متدهور قابل للإغلاق دائماً + استرجاع صامت وإغلاق ذاتي",
+  "at": "2026-10-08T21:28:22Z"
 }
