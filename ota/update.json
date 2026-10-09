@@ -1,10 +1,10 @@
 {
   "app": "stonebill",
-  "tag": "1.53",
-  "versionCode": 53,
-  "size": 15767195,
-  "url": "https://sawan4art.github.io/ota/StoneBill-v1.53.apk",
-  "sha256": "34c184cd6102169ed94c54c0d59fe228ba8dfa4612ac576e1a266b2c56dafbc2",
+  "tag": "1.54",
+  "versionCode": 54,
+  "size": 15769309,
+  "url": "https://sawan4art.github.io/ota/StoneBill-v1.54.apk",
+  "sha256": "9a9236b60da5d6312adbc444f72c50448c64bcca51d1372080a02ed4154fecb7",
   "notes": "",
-  "at": "2026-10-09T22:56:30Z"
+  "at": "2026-10-09T23:54:27Z"
 }
