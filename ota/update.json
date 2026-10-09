@@ -1,10 +1,10 @@
 {
   "app": "stonebill",
-  "tag": "1.50",
-  "versionCode": 50,
-  "size": 15764359,
-  "url": "https://sawan4art.github.io/ota/StoneBill-v1.50.apk",
-  "sha256": "3ec05e2e79f86e8a0f6afb3988385b2ccd268aa139bced69c539243273a159e5",
-  "notes": "لا شاشة دخول ميتة ولا سيناريو بلا فايربيس: محمّل SDK محلي-أولاً + وضع متدهور قابل للإغلاق دائماً + استرجاع صامت وإغلاق ذاتي",
-  "at": "2026-10-08T21:28:22Z"
+  "tag": "1.51",
+  "versionCode": 51,
+  "size": 15765726,
+  "url": "https://sawan4art.github.io/ota/StoneBill-v1.51.apk",
+  "sha256": "8de2097b9b4d202e1d692767c4aa5201d272080f04e0d8dc13c19d9b480c1d8d",
+  "notes": "إصلاح جذر حفظ الدخول والاشتراك: كشف window.fbAuth + إصلاح كتابة users/{uid} الميتة + حارس الدخول المزدوج + تجربة أوفلاين معلقة آمنة",
+  "at": "2026-10-09T01:54:57Z"
 }
