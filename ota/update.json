@@ -1,10 +1,10 @@
 {
   "app": "stonebill",
-  "tag": "1.52",
-  "versionCode": 52,
-  "size": 15767201,
-  "url": "https://sawan4art.github.io/ota/StoneBill-v1.52.apk",
-  "sha256": "d3024d6c2f73cc6a51bfe716e5d17958369e4b648b1d49c3589019f8369592fa",
-  "notes": "علاج 4 بلاغات: شارة الاتصال في النظام والنسخ + كود الاشتراك مع التجربة + الدعوات مش بتوصل + الكيبورد في خانات الدعوة",
-  "at": "2026-10-09T18:42:16Z"
+  "tag": "1.53",
+  "versionCode": 53,
+  "size": 15767195,
+  "url": "https://sawan4art.github.io/ota/StoneBill-v1.53.apk",
+  "sha256": "34c184cd6102169ed94c54c0d59fe228ba8dfa4612ac576e1a266b2c56dafbc2",
+  "notes": "",
+  "at": "2026-10-09T22:56:30Z"
 }
