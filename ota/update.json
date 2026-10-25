@@ -1,10 +1,10 @@
 {
   "app": "stonebill",
-  "tag": "1.55",
-  "versionCode": 55,
-  "size": 15769305,
-  "url": "https://sawan4art.github.io/ota/StoneBill-v1.55.apk",
-  "sha256": "e40ca88060f8e1e661fa2faaa17f90e97d00e895cd53bc0f732fc93e84d6f50f",
-  "notes": "bump حمل الريليز لحزمة الأونر v2.10 — بدون تغيير وظيفي",
-  "at": "2026-10-10T00:28:45Z"
+  "tag": "1.56",
+  "versionCode": 56,
+  "size": 15841492,
+  "url": "https://sawan4art.github.io/ota/StoneBill-v1.56.apk",
+  "sha256": "8c58a356616d792e4a646622d6fb600955b52b5e2d0aa772599701a36f6d808c",
+  "notes": "مفتاح التوليد الخامس keyVer5 — تحديث بلا تغيير وظيفي للمستخدم",
+  "at": "2026-10-25T13:13:43Z"
 }
