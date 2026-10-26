@@ -1,9 +1,9 @@
 {
   "app": "sbowner",
-  "tag": "2.11",
-  "versionCode": 12,
-  "size": 2610302,
-  "url": "https://sawan4art.github.io/ota/SB-Owner-v2.11.apk",
-  "sha256": "6b6b295ead360c45e88ab9d32c853c2704aeb051705f7aa485e36f13520af424",
-  "at": "2026-10-25T13:14:34Z"
+  "tag": "2.12",
+  "versionCode": 13,
+  "size": 2613778,
+  "url": "https://sawan4art.github.io/ota/SB-Owner-v2.12.apk",
+  "sha256": "1d3c1cf3bf06872cc80841f0f62066157c0a060027af34989df57a8095b2af2a",
+  "at": "2026-10-26T10:59:08Z"
 }
