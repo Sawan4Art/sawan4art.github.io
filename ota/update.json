@@ -1,10 +1,10 @@
 {
   "app": "stonebill",
-  "tag": "1.58",
-  "versionCode": 58,
-  "size": 15852462,
-  "url": "https://sawan4art.github.io/ota/StoneBill-v1.58.apk",
-  "sha256": "ca35c412fa5988437cd67d45ea13a7b352c0ccb74e97fcb207aff23e992bae95",
-  "notes": "لوحة تحكم المالك: إيقاف/تشغيل أي كود من تطبيق الأونر + لوحة بيانات (نشِط/قرب الانتهاء/مجدد/أول فتح)",
-  "at": "2026-10-26T10:56:57Z"
+  "tag": "1.59",
+  "versionCode": 59,
+  "size": 15853755,
+  "url": "https://sawan4art.github.io/ota/StoneBill-v1.59.apk",
+  "sha256": "be923adde75e8ce424f5d896884f949178489fce59eac9f110a22a3063cc3cba",
+  "notes": "",
+  "at": "2026-10-26T11:56:25Z"
 }
