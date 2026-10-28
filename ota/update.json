@@ -1,10 +1,10 @@
 {
   "app": "stonebill",
-  "tag": "1.63",
-  "versionCode": 63,
-  "size": 15868649,
-  "url": "https://sawan4art.github.io/ota/StoneBill-v1.63.apk",
-  "sha256": "5d2131f3cffcdf327aff3eb2ea6a684b549b7dab6907c65139b48267e13ed596",
-  "notes": "اصلاح نهائي لحفظ تسجيل الدخول + اشعار نصي نظيف + فاتورة PDF صفحة واحدة بلا تجميد",
-  "at": "2026-10-28T12:56:50Z"
+  "tag": "1.64",
+  "versionCode": 64,
+  "size": 15922422,
+  "url": "https://sawan4art.github.io/ota/StoneBill-v1.64.apk",
+  "sha256": "496a8daf5b3d34c5f7eb41125ddb4b187fa2faf8b2fc41c75a12069ebc846d83",
+  "notes": "قالب فاتورة جديد للطباعة والـ PDF — صفحة واحدة بلا تجميد ولا صفحتين + فواتير طويلة تتقطع بالسطور بشكل مرتب",
+  "at": "2026-10-28T16:11:28Z"
 }
