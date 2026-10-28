@@ -1,10 +1,10 @@
 {
   "app": "stonebill",
-  "tag": "1.61",
-  "versionCode": 61,
-  "size": 15859417,
-  "url": "https://sawan4art.github.io/ota/StoneBill-v1.61.apk",
-  "sha256": "e100016c1726ccd07375f4f8441af7dd39229c9d99a25e15c59e3a0268749b81",
-  "notes": "إصلاح دعوة الصنايعي نهائيا + إخفاء مبدل الوضع عن المشتركين",
-  "at": "2026-10-28T09:27:54Z"
+  "tag": "1.62",
+  "versionCode": 62,
+  "size": 15865557,
+  "url": "https://sawan4art.github.io/ota/StoneBill-v1.62.apk",
+  "sha256": "b42c535b235cefe176b9106a6c53816363c44b87faa9ce351aba183139c6c34a",
+  "notes": "حفظ تسجيل الدخول نهائياً بعد أي إغلاق + إشعارات بألوان الثيم + بطاقة تحديث تفاعلية",
+  "at": "2026-10-28T10:52:49Z"
 }
